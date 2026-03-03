@@ -10,20 +10,17 @@
 
 ### 🚀 Currently Working On
 * **RPG Development**: Creating an original RPG using Unity.
-* **3D Modeling**: Crafting furniture and gaming accessories (like mice!) in Blender for Booth.
+* **3D Modeling**: Crafting furniture and gaming accessories (like mice!) in Blender.
 * **VRChat**: Designing and exploring immersive worlds.
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abesandao&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abesandao&layout=compact&theme=radical)
 
 ---
 
 ### 📝 Learning
 * Studying for the **Fundamental Information Technology Engineer Examination**.
-* Building a specialized **Note-taking App** for coding.
+
 
 <!--
 **abesandao/abesandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
