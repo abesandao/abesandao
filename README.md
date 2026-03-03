@@ -1,4 +1,29 @@
-## Hi there 👋
+# Hi there, I'm abesandao 👋
+
+### 🛠 Skills
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![VRChat](https://img.shields.io/badge/VRChat-1DB954?style=for-the-badge&logo=vrchat&logoColor=white)
+
+---
+
+### 🚀 Currently Working On
+* **RPG Development**: Creating an original RPG using Unity.
+* **3D Modeling**: Crafting furniture and gaming accessories (like mice!) in Blender for Booth.
+* **VRChat**: Designing and exploring immersive worlds.
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abesandao&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abesandao&layout=compact&theme=radical)
+
+---
+
+### 📝 Learning
+* Studying for the **Fundamental Information Technology Engineer Examination**.
+* Building a specialized **Note-taking App** for coding.
 
 <!--
 **abesandao/abesandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
